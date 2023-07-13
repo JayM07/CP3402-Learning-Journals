@@ -2,7 +2,7 @@
 ## Learning Activities & Resources
 
 This week I studied a Linkedin learning courses Mapping the Modern Web Design Process,Version Control for Everyone and Migrating WordPress with WP Migrate DB and DB pro given in course learning resources 
-[https://www.linkedin.com/learning/mapping-the-modern-web-design-process](https://www.linkedin.com/learning/mapping-the-modern-web-design-process
+[https://www.linkedin.com/learning/mapping-the-modern-web-design-process](https://www.linkedin.com/learning/mapping-the-modern-web-design-process)
 [https://www.linkedin.com/learning/version-control-for-everyone-2](https://www.linkedin.com/learning/version-control-for-everyone-2)
 [https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro](https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro)
 I also watched some youtube videos on setting up wordpress in the local host and bulding some basic websites on youtube -
